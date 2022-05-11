@@ -10,4 +10,4 @@ enlace a [Google](https://www.google.com).
 
 esto es una imagen:
 
-![Enano]https://1.bp.blogspot.com/-rgm8pHvQUps/V8R_6c75FUI/AAAAAAAACRo/O0TPA4bRsYcNtP5OacBWfNHdIgomtNkhQCLcB/s1600/lanzamiento%2Benanos.jpg
+![Enano](https://1.bp.blogspot.com/-rgm8pHvQUps/V8R_6c75FUI/AAAAAAAACRo/O0TPA4bRsYcNtP5OacBWfNHdIgomtNkhQCLcB/s1600/lanzamiento%2Benanos.jpg)
