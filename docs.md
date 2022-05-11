@@ -23,8 +23,8 @@ git commit -m "description"
 git push
 ```
 
-Formateado como SQL
-´´´sql
+Formateado como SQL:
+```sql
 select *
-from
-´´´
+from alumnos 
+```
