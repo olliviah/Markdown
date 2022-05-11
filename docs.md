@@ -19,10 +19,12 @@ Total que al final....
 
 ```bash
 git add .
-git commit -m "description
+git commit -m "description"
 git push
 ```
 
 Formateado como SQL
 ´´´sql
 select *
+from
+´´´
