@@ -2,7 +2,7 @@
 
 aqui simplemente ns dedicamos a escribir texto. esto es un parrafo.
 
-Esto es otro parrafo
+Esto es otro parrafo :nerd_face:.
 
 quiero poner alfo en **negrita**
 
